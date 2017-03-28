@@ -1,0 +1,3 @@
+INSERT INTO CostCategory (NAME) VALUES ('WEAR');
+INSERT INTO CostCategory (NAME) VALUES ('FOOD');
+INSERT INTO CostCategory (NAME) VALUES ('TRAVEL');
