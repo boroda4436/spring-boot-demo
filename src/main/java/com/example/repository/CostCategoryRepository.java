@@ -1,7 +1,7 @@
-package ua.com.jon.repository;
+package com.example.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import ua.com.jon.domain.CostCategory;
+import com.example.entity.CostCategory;
 
 /**
  * Created by b.chupika on 28.03.2017

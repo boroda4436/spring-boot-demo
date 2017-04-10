@@ -1,4 +1,4 @@
-package ua.com.jon.domain;
+package com.example.entity;
 
 import lombok.Data;
 
