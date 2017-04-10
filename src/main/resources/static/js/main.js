@@ -1,5 +1,5 @@
 /**
- * Created by b.chupika on 28.03.2017.
+ * Created by b.chupika on 28.03.2017
  */
 $(document).ready(function () {
 
